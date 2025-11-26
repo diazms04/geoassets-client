@@ -1,7 +1,7 @@
 import PropTypes from "prop-types";
 import { Layout } from "antd";
-import { Sidebar } from "../../components/SideBar/SideBar";
-import { TopBarCompany } from "../../components/TopBarCompany/TopBarCompany";
+import { Sidebar } from "../../Components/SideBar/SideBar.jsx";
+import { TopBarCompany } from "../../Components/TopBarCompany/TopBarCompany.jsx";
 
 import "./CompanyLayout.scss";
 
