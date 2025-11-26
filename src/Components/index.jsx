@@ -2,3 +2,4 @@
 export * from './TopBar'
 export * from './SideBar'
 export * from './TopBarCompany'
+export * from './Footer'

@@ -1,6 +1,8 @@
 import PropTypes from "prop-types";
 import { Layout } from "antd";
-import { Sidebar, TopBarCompany } from "../../components";
+import { Sidebar } from "../../components/SideBar/SideBar";
+import { TopBarCompany } from "../../components/TopBarCompany/TopBarCompany";
+
 import "./CompanyLayout.scss";
 
 const { Content } = Layout;
